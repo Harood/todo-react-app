@@ -1,12 +1,48 @@
-# React + Vite
+# 📝 To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive To-Do List web application built with **React.js** and **Tailwind CSS**. This project marks the beginning of my journey into the world of modern frontend development using React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add new tasks
+- 🗑️ Delete tasks
+- 🖊️ Edit tasks
+- ✔️ Mark tasks as completed (with line-through effect)
+- 🔍 Real-time search
+- 🧹 Clear all tasks
+- 💾 Data persistence using localStorage
+- 🎨 Responsive and sleek UI with custom scrollbars
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/0c46781d-90c5-4811-8db7-4a57fa1498de" />
+
+
+---
+
+## 📦 Tech Stack
+
+- **React.js** ⚛️
+- **Tailwind CSS** 🎨
+- **LocalStorage API** 💾
+
+---
+
+## 🛠️ Installation & Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/todo-react-app.git
+
+# Navigate to project directory
+cd todo-react-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
